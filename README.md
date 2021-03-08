@@ -8,3 +8,9 @@ License: GPLv3
 
 # Overview
 rust_mcsv is a [MetaCSV](https://github.com/jferard/MetaCSV) parser for Rust. 
+
+> MetaCSV is an open specification for a CSV file description. This description
+> is written in a small auxiliary CSV file that may be stored along wih the 
+> CSV file itself. This auxilary file should provide the informations necessary 
+> to read and type the content of the CSV file. The standard extension is 
+>".mcsv".
